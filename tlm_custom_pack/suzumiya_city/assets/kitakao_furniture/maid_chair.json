@@ -1,0 +1,13 @@
+{
+    "pack_name": "{pack.kitakao_furniture.chair.name}",
+    "author": ["Tsuruya Construction Group"],
+    "version": "1.1.0",
+    "date": "2023-01-18",
+    "model_list": [
+        {
+            "model_id": "kitakao_furniture:globe",
+            "render_item_scale": 1.5,
+            "tameable_can_ride": false
+        }
+    ]
+}
