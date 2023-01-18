@@ -1,3 +1,6 @@
 pack.kitakao_furniture.chair.name=北高家具
 
 model.kitakao_furniture.globe.name=地球仪
+model.kitakao_furniture.doorplate_bungeibu.name=门牌（文艺部）
+model.kitakao_furniture.doorplate_sos_dan.name=门牌（SOS团）
+model.kitakao_furniture.doorplate_computer_kenkyuukai.name=门牌（电研部）

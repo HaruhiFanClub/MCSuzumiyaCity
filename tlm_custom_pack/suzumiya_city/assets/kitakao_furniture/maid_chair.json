@@ -8,6 +8,25 @@
             "model_id": "kitakao_furniture:globe",
             "render_item_scale": 1.5,
             "tameable_can_ride": false
+        },
+        {
+            "model_id": "kitakao_furniture:doorplate_bungeibu",
+            "model": "kitakao_furniture:models/entity/doorplate.json",
+            "texture": "kitakao_furniture:textures/entity/doorplate_bungeibu.png",
+            "render_item_scale": 2,
+            "tameable_can_ride": false
+        },
+        {
+            "model_id": "kitakao_furniture:doorplate_computer_kenkyuukai",
+            "model": "kitakao_furniture:models/entity/doorplate.json",
+            "texture": "kitakao_furniture:textures/entity/doorplate_computer_kenkyuukai.png",
+            "render_item_scale": 2,
+            "tameable_can_ride": false
+        },
+        {
+            "model_id": "kitakao_furniture:doorplate_sos_dan",
+            "render_item_scale": 2,
+            "tameable_can_ride": false
         }
     ]
 }

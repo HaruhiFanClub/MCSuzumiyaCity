@@ -1,3 +1,6 @@
 pack.kitakao_furniture.chair.name=Kitakao Furniture
 
 model.kitakao_furniture.globe.name=Globe
+model.kitakao_furniture.doorplate_bungeibu.name=Doorplate (Bungeibu)
+model.kitakao_furniture.doorplate_sos_dan.name=Doorplate (SOS Dan)
+model.kitakao_furniture.doorplate_computer_kenkyuukai.name=Doorplate (Computer Kenkyuukai)
